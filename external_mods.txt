@@ -20,3 +20,5 @@ piggy_variety_mod;1.3.18;https://gcdn.thunderstore.io/live/repository/packages/P
 furniture_lock;1.3.9;https://gcdn.thunderstore.io/live/repository/packages/mattymatty-FurnitureLock-1.3.9.zip
 helmet_cameras;2.1.5;https://gcdn.thunderstore.io/live/repository/packages/RickArg-Helmet_Cameras-2.1.5.zip
 item_furniture;1.3.9;https://gcdn.thunderstore.io/live/repository/packages/MelanieMelicious-Item_Furniture_MelanieMelicious-0.1.1.zip
+buyable_shotgun;1.3.0;https://gcdn.thunderstore.io/live/repository/packages/MegaPiggy-BuyableShotgun-1.3.0.zip
+buyable_shotgun_shells;1.3.0;https://gcdn.thunderstore.io/live/repository/packages/MegaPiggy-BuyableShotgunShells-1.3.0.zip
