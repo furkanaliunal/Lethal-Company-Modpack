@@ -19,3 +19,4 @@ utility_furniture_path;0.4.2;https://gcdn.thunderstore.io/live/repository/packag
 piggy_variety_mod;1.3.18;https://gcdn.thunderstore.io/live/repository/packages/Piggy-Piggys_Variety_Mod-1.3.18.zip
 furniture_lock;1.3.9;https://gcdn.thunderstore.io/live/repository/packages/mattymatty-FurnitureLock-1.3.9.zip
 helmet_cameras;2.1.5;https://gcdn.thunderstore.io/live/repository/packages/RickArg-Helmet_Cameras-2.1.5.zip
+item_furniture;1.3.9;https://gcdn.thunderstore.io/live/repository/packages/MelanieMelicious-Item_Furniture_MelanieMelicious-0.1.1.zip
