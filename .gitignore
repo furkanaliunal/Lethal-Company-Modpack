@@ -4,6 +4,8 @@
 !README.md
 !BepInEx/
 !BepInEx/**
+!patchers
+!patchers/**
 !doorstop_config.ini
 !winhttp.dll
 
