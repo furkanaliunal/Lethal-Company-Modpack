@@ -4,10 +4,6 @@
 !README.md
 !BepInEx/
 !BepInEx/**
-!patchers
-!patchers/**
-!patchers/BepInEx.MonoMod.HookGenPatcher/
-!patchers/BepInEx.MonoMod.HookGenPatcher/**
 !doorstop_config.ini
 !winhttp.dll
 
