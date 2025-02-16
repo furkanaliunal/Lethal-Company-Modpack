@@ -14,6 +14,9 @@ BepInEx/plugins/3rdPerson.dll
 BepInEx/plugins/ControlCompany.dll
 BepInEx/plugins/ControlCompanyFilter.dll
 
+BepInEx/plugins/sinai-dev-UnityExplorer*/
+BepInEx/plugins/sinai-dev-UnityExplorer*/**
+
 !external_mods.txt
 
 BepInEx/plugins/externals/
