@@ -34,3 +34,7 @@ library_jll_1.9.2;https://gcdn.thunderstore.io/live/repository/packages/JacobG5-
 library_dungeon_generation_plus;1.4.1;https://gcdn.thunderstore.io/live/repository/packages/Alice-DungeonGenerationPlus-1.4.1.zip
 map_wesleys_interiors_1.1.5;https://gcdn.thunderstore.io/live/repository/packages/Magic_Wesley-WesleysInteriors-1.1.5.zip
 utility_too_many_suits;2.0.1;https://gcdn.thunderstore.io/live/repository/packages/Verity-TooManySuits-2.0.1.zip
+ship_widership;1.3.17;https://gcdn.thunderstore.io/live/repository/packages/mborsh-Wider_Ship_Mod-1.3.17.zip
+library_mattyfixes;1.1.33;https://gcdn.thunderstore.io/live/repository/packages/mattymatty-Matty_Fixes-1.1.33.zip
+library_vertexlibrary;1.1.0;https://gcdn.thunderstore.io/live/repository/packages/LethalCompanyModding-VertexLibrary-1.1.0.zip
+ship_moved_magnet_switch;1.4.0;https://gcdn.thunderstore.io/live/repository/packages/AtomicStudio-Moved_Magnet_Switch-1.4.0.zip
