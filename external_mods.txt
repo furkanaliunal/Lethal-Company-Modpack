@@ -41,3 +41,4 @@ ship_moved_magnet_switch;1.4.0;https://gcdn.thunderstore.io/live/repository/pack
 skin_dante;1.1.0;https://gcdn.thunderstore.io/live/repository/packages/emir12000-dantesuit-1.1.0.zip
 skin_kafka;0.1.2;https://gcdn.thunderstore.io/live/repository/packages/poltxrgxist-kafkamodeltest-0.1.2.zip
 skin_walterwhite;1.2.2;https://gcdn.thunderstore.io/live/repository/packages/ItsMazingerZ-WalterWhiteSuit-1.2.2.zip
+library_modelreplacementapi;2.4.14;https://gcdn.thunderstore.io/live/repository/packages/BunyaPineTree-ModelReplacementAPI-2.4.14.zip
