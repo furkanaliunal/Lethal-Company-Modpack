@@ -38,7 +38,6 @@ ship_widership;1.3.17;https://gcdn.thunderstore.io/live/repository/packages/mbor
 library_mattyfixes;1.1.33;https://gcdn.thunderstore.io/live/repository/packages/mattymatty-Matty_Fixes-1.1.33.zip
 library_vertexlibrary;1.1.0;https://gcdn.thunderstore.io/live/repository/packages/LethalCompanyModding-VertexLibrary-1.1.0.zip
 ship_moved_magnet_switch;1.4.0;https://gcdn.thunderstore.io/live/repository/packages/AtomicStudio-Moved_Magnet_Switch-1.4.0.zip
-skin_dante;1.1.0;https://gcdn.thunderstore.io/live/repository/packages/emir12000-dantesuit-1.1.0.zip
 skin_kafka;0.1.2;https://gcdn.thunderstore.io/live/repository/packages/poltxrgxist-kafkamodeltest-0.1.2.zip
 skin_walterwhite;1.2.2;https://gcdn.thunderstore.io/live/repository/packages/ItsMazingerZ-WalterWhiteSuit-1.2.2.zip
 library_modelreplacementapi;2.4.14;https://gcdn.thunderstore.io/live/repository/packages/BunyaPineTree-ModelReplacementAPI-2.4.14.zip
