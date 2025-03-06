@@ -47,4 +47,4 @@ utility_moon_day_speed_multiplier;1.0.1;https://gcdn.thunderstore.io/live/reposi
 library_custom_story_logs;1.4.6;https://gcdn.thunderstore.io/live/repository/packages/Yorimor-CustomStoryLogs-1.4.6.zip
 library_lethal_network_api;3.3.2;https://gcdn.thunderstore.io/live/repository/packages/xilophor-LethalNetworkAPI-3.3.2.zip
 maps_wesleys_moons;5.1.5;https://gcdn.thunderstore.io/live/repository/packages/Magic_Wesley-Wesleys_Moons-5.1.5.zip
-
+library_odin_serializer;2022.11.9;https://gcdn.thunderstore.io/live/repository/packages/Lordfirespeed-OdinSerializer-2022.11.9.zip
