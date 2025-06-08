@@ -8,7 +8,7 @@ fun_ship_windows;1.11.0;https://gcdn.thunderstore.io/live/repository/packages/Te
 library_celestial_tint;1.5.2;https://gcdn.thunderstore.io/live/repository/packages/sfDesat-Celestial_Tint-1.5.2.zip
 fun_toybox_little_company;1.3.19;https://gcdn.thunderstore.io/live/repository/packages/Toybox-LittleCompany-1.3.19.zip
 library_evaisa_lethallib;0.16.2;https://gcdn.thunderstore.io/live/repository/packages/Evaisa-LethalLib-0.16.2.zip
-utility_more_company;1.11.0;https://gcdn.thunderstore.io/live/repository/packages/notnotnotswipez-MoreCompany-1.11.0.zip
+utility_more_company;1.11.1;https://gcdn.thunderstore.io/live/repository/packages/notnotnotswipez-MoreCompany-1.11.1.zip
 fun_more_head;1.2.6;https://gcdn.thunderstore.io/live/repository/packages/Mhz-MoreHead-1.2.6.zip
 furniture_utilityfurniturepack_melaniemelicious;0.4.2;https://gcdn.thunderstore.io/live/repository/packages/MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack-0.4.2.zip
 furniture_furniturelock;1.3.9;https://gcdn.thunderstore.io/live/repository/packages/mattymatty-FurnitureLock-1.3.9.zip
